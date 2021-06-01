@@ -1,6 +1,6 @@
 FacePamphlet
 
-Images are provided by Stanford Engineering Everywhere (https://see.stanford.edu/)
+Some profile images are provided by Stanford Engineering Everywhere (https://see.stanford.edu/)
 
 Run FacePamphlet.java
 
